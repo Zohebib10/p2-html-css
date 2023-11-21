@@ -9,5 +9,5 @@ modal.style.display = "none";
 
 }
 
-
+ 
 showModal()
