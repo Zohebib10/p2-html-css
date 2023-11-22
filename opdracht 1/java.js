@@ -11,3 +11,5 @@ modal.style.display = "none";
 
 
 showModal()
+
+function
